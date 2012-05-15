@@ -1,3 +1,4 @@
+# Escape class can be found at https://github.com/akr/escape
 require 'escape'
 require 'socket'
 
